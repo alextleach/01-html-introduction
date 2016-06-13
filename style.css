@@ -91,7 +91,7 @@ body {
   border-bottom-width: 0.5rem;
   border-bottom-style: solid;
   border-bottom-color: #00a5bb;
-  wide: 10rem;
+  width: 10rem;
   margin: auto;
 }
 
@@ -136,7 +136,7 @@ figure {
 }
 
 figure span {
-  color: 00a5bb;
+  color: #00a5bb;
 }
 
 .photo-title {
